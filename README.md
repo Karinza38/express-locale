@@ -1,4 +1,4 @@
-express-locale [![CI](https://github.com/smhg/express-locale/actions/workflows/ci.yml/badge.svg)](https://github.com/smhg/express-locale/actions/workflows/ci.yml)
+ express-locale [![CI](https://github.com/smhg/express-locale/actions/workflows/ci.yml/badge.svg)](https://github.com/smhg/express-locale/actions/workflows/ci.yml)
 ==============
 
 Express middleware to determine the [locale identifier](https://en.wikipedia.org/wiki/Locale_(computer_software)) of the incomming request.
